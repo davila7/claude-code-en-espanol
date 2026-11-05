@@ -1,3 +1,5 @@
+![Banner de Claude Code en Español: una mascota con gorro de chef surfea una ola al atardecer, en pixel art](assets/banner.jpg)
+
 # Claude Code en Español
 
 De la configuración básica al desarrollo avanzado con Claude Code en español.
