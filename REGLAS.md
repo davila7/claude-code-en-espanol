@@ -49,4 +49,4 @@ Opinar distinto está permitido. Criticar una herramienta o una idea con argumen
 
 Si algo rompe estas reglas, reporta la publicación en Facebook o etiqueta a un moderador en los comentarios. No respondas con más ataques, porque esos comentarios también se sancionan.
 
-Si el problema está en este repositorio, abre un [issue](https://github.com/davila7/claude-code-en-espa-ol/issues).
+Si el problema está en este repositorio, abre un [issue](https://github.com/davila7/claude-code-en-espanol/issues).

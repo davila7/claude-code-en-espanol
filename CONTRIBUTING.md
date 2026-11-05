@@ -89,4 +89,4 @@ Lee CONTRIBUTING.md, agrega mi proyecto <URL> a PROYECTOS.md con el formato indi
 
 Un moderador revisa cada propuesta y puede pedir cambios o rechazarla. Estar en el directorio significa que el proyecto cumplió estos requisitos al revisarlo, no que la comunidad garantice su seguridad. Lee el código antes de instalarlo.
 
-Un proyecto se retira del directorio si su enlace deja de funcionar, si deja de cumplir estos requisitos o si se detecta un problema de seguridad. Para avisar de uno, abre un [issue](https://github.com/davila7/claude-code-en-espa-ol/issues).
+Un proyecto se retira del directorio si su enlace deja de funcionar, si deja de cumplir estos requisitos o si se detecta un problema de seguridad. Para avisar de uno, abre un [issue](https://github.com/davila7/claude-code-en-espanol/issues).

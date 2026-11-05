@@ -27,4 +27,4 @@ Respeta a todos, sin odio ni bullying, solo temas de IA y programación, nada de
 
 ## Mejorar este repositorio
 
-Si encuentras un enlace roto o un error, abre un [issue](https://github.com/davila7/claude-code-en-espa-ol/issues) o un pull request. Las reglas del grupo solo las cambian los administradores.
+Si encuentras un enlace roto o un error, abre un [issue](https://github.com/davila7/claude-code-en-espanol/issues) o un pull request. Las reglas del grupo solo las cambian los administradores.
