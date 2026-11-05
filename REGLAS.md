@@ -38,8 +38,7 @@ No se permiten publicaciones repetitivas sin contenido y solo referenciando a we
 
 | Situación | Consecuencia |
 | --- | --- |
-| Comentarios o publicaciones con odio o ataques personales | Se elimina el contenido y la cuenta se suspende 30 días |
-| Publicaciones que incitan al odio contra un grupo de personas, como los vibecoders | Se elimina la publicación y la cuenta se suspende temporalmente |
+| Comentarios o publicaciones con odio o ataques, sea contra una persona o contra un grupo como los vibecoders | Se elimina el contenido y la cuenta se suspende 30 días |
 | Personas que no participan en el grupo y solo entran a atacar | Se les prohíbe el acceso |
 | Reincidencia en odio o ataques | Baneo permanente |
 | Otras infracciones, como temas ajenos, spam, otras comunidades, piratería o venta de cuentas | Se elimina el contenido y, si se repite, la cuenta puede ser suspendida |

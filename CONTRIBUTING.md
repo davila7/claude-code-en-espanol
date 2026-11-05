@@ -23,7 +23,7 @@ Proyectos relacionados con Claude Code o con IA y programación ([regla 3](REGLA
 
 - El proyecto funciona y el README explica cómo instalarlo y usarlo.
 - La descripción que envías está en español. El código y su documentación pueden estar en inglés ([regla 6](REGLAS.md#6-idioma)).
-- Si es de pago o freemium, lo indicas. Los enlaces de afiliado no se aceptan.
+- Si es de pago o freemium, lo indicas. Un enlace de afiliado debe declararse en el grupo y no se acepta en el directorio.
 
 ### Seguridad
 
